@@ -1,4 +1,4 @@
-# ¡Hola! Soy Raaspy 👋
+# ¡Hola! Soy Jorge Muñoz 👋
 
 Soy un **Desarrollador Junior** apasionado por la programación y siempre en proceso de aprendizaje. Me especializo en **JavaScript**, especialmente con **React** y **Node.js**, y estoy profundizando cada vez más en el mundo del desarrollo. 🚀
 

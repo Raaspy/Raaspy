@@ -4,15 +4,15 @@ Soy un **Desarrollador Junior** apasionado por la programación y siempre en pro
 
 Actualmente, estoy trabajando en proyectos interesantes y mejorando mis habilidades a través de práctica constante y exploración.
 
-## 🌱 Actualmente estoy aprendiendo...
-- Desarrollo en (React, Node.js, Express, PostgreSQL)
-- Mejores prácticas en código limpio y arquitectura de aplicaciones.
-
 ## 🧑‍💻 Habilidades
 - **JavaScript** | **Node.js** | **React.js** | **Express**  
 - **Git** | **GitHub** | **APIs**
 - **SQL** | **PostgreSQL** | **MySQL** | **Oracle**
 - Conocimientos en **C#**, **Java** y **Python** (aunque no los utilizo con frecuencia)
+
+## 🌱 Actualmente estoy aprendiendo...
+- Desarrollo en (React, Node.js, Express, PostgreSQL)
+- Mejores prácticas en código limpio y arquitectura de aplicaciones.
 
 ## 🔥 Proyecto Actual
 - **[Raaspify](https://github.com/Raaspy/Raaspify)** - Un bot de música para Discord que reproduce música desde YouTube. Actualmente en desarrollo, pero planeo expandir su funcionalidad e integrar más características en el futuro. 🎶

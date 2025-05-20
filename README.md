@@ -10,7 +10,7 @@ Actualmente, estoy trabajando en proyectos interesantes y mejorando mis habilida
 - **SQL** | **PostgreSQL** | **MySQL** | **Oracle**
 - Conocimientos en **C#**, **Java** y **Python** (aunque no los utilizo con frecuencia)
 
-## 🌱 Actualmente estoy aprendiendo...
+## 🌱 Actualmente estoy trabajando...
 - Desarrollo en (React, Node.js, Express, PostgreSQL)
 - Mejores prácticas en código limpio y arquitectura de aplicaciones.
 

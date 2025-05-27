@@ -1,21 +1,27 @@
 # ¡Hola! Soy Jorge Muñoz 👋
 
-Soy un **Desarrollador Junior** apasionado por la programación y siempre en proceso de aprendizaje. Me especializo en **JavaScript**, especialmente con **React** y **Node.js**, y estoy profundizando cada vez más en el mundo del desarrollo. 🚀
+Desarrollador backend junior con conocimientos fullstack y experiencia en Node.js, Express, NestJS y bases de datos relacionales. He trabajado en APIs REST, autenticación, bots de Discord y proyectos personales con integración frontend básica. 🚀
 
-Actualmente, estoy trabajando en proyectos interesantes y mejorando mis habilidades a través de práctica constante y exploración.
+Actualmente, estoy desarrollando proyectos desafiantes y mejorando mis habilidades mediante práctica constante y exploración de nuevas tecnologías.
 
 ## 🧑‍💻 Habilidades
-- **JavaScript** | **Node.js** | **React.js** | **Express**  
-- **Git** | **GitHub** | **APIs**
-- **SQL** | **PostgreSQL** | **MySQL** | **Oracle**
-- Conocimientos en **C#**, **Java** y **Python** (aunque no los utilizo con frecuencia)
 
-## 🌱 Actualmente estoy trabajando...
-- Desarrollo en (React, Node.js, Express, PostgreSQL)
-- Mejores prácticas en código limpio y arquitectura de aplicaciones.
+- 💻 **JavaScript**, **TypeScript**
+- 🐢 **Node.js**, 🚀 **Express**, 🧱 **NestJS**
+- ⚛️ **React.js**
+- 🗃️ **SQL**, 🐘 **PostgreSQL**, 🐬 **MySQL**, 🔵 **Oracle**
+- 🛠️ **Git**, **GitHub**, 📋 **Trello**, 🔗 **APIs REST**
+- 🧠 Conocimientos en: **C#**, **Java**, **Python**
 
-## 🔥 Proyecto Actual
-- **[Raaspify](https://github.com/Raaspy/Raaspify)** - Un bot de música para Discord que reproduce música desde YouTube. Actualmente en desarrollo, pero planeo expandir su funcionalidad e integrar más características en el futuro. 🎶
+## 🌱 En lo que estoy trabajando
 
-## 📬 Conéctate conmigo
+- Backend con Node.js y PostgreSQL
+- Mejores prácticas de código limpio y arquitectura de aplicaciones
+
+## 🔥 Proyecto destacado
+
+- **[Raaspify](https://github.com/Raaspy/Raaspify)** – Bot de música para Discord que reproduce desde YouTube. Proyecto en desarrollo activo, con planes de expansión de funcionalidades. 🎶
+
+## 📬 Conecta conmigo
+
 - [LinkedIn](https://www.linkedin.com/in/jorge-munoz-p/)

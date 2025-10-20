@@ -1,14 +1,14 @@
 # ¡Hola! Soy Jorge Muñoz 👋
 
-Desarrollador backend junior con conocimientos fullstack y experiencia en Node.js, Express, NestJS y bases de datos relacionales. He trabajado en APIs REST, autenticación, bots de Discord y proyectos personales con integración frontend básica. 🚀
+Desarrollador backend junior con conocimientos fullstack y experiencia en .Net Core 8, Angular v17, Node.js, Express, NestJS y bases de datos relacionales. He trabajado en APIs REST, autenticación, migraciones, bots de Discord y proyectos personales con integración frontend intermedia. 🚀
 
 Actualmente, estoy desarrollando proyectos desafiantes y mejorando mis habilidades mediante práctica constante y exploración de nuevas tecnologías.
 
 ## 🧑‍💻 Habilidades
 
-- 💻 **JavaScript**, **TypeScript**
-- 🐢 **Node.js**, 🚀 **Express**, 🧱 **NestJS**
-- ⚛️ **React.js**
+- 💻 **JavaScript**, **TypeScript**, **C#**
+- 🐢 **Node.js**, 🚀 **Express**, 🧱 **NestJS**, **Core 8**
+- ⚛️ **React.js**, **Angular v17**
 - 🗃️ **SQL**, 🐘 **PostgreSQL**, 🐬 **MySQL**, 🔵 **Oracle**
 - 🛠️ **Git**, **GitHub**, 📋 **Trello**, 🔗 **APIs REST**
 - 🧠 Conocimientos en: **C#**, **Java**, **Python**

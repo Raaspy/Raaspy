@@ -7,8 +7,8 @@ Actualmente, estoy desarrollando proyectos desafiantes y mejorando mis habilidad
 ## 🧑‍💻 Habilidades
 
 - 💻 **JavaScript**, **TypeScript**, **C#**
-- 🐢 **Node.js**, 🚀 **Express**, 🧱 **NestJS**, **Core 8**
-- ⚛️ **React.js**, **Angular v17**
+- 🐢 **Node.js**, 🚀 **Express**, 🧱 **NestJS**, ⚙️ **Core 8**
+- ⚛️ **React.js**, ⚡ **Angular v17**
 - 🗃️ **SQL**, 🐘 **PostgreSQL**, 🐬 **MySQL**, 🔵 **Oracle**
 - 🛠️ **Git**, **GitHub**, 📋 **Trello**, 🔗 **APIs REST**
 - 🧠 Conocimientos en: **Java**, **Python**

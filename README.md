@@ -11,7 +11,7 @@ Actualmente, estoy desarrollando proyectos desafiantes y mejorando mis habilidad
 - ⚛️ **React.js**, **Angular v17**
 - 🗃️ **SQL**, 🐘 **PostgreSQL**, 🐬 **MySQL**, 🔵 **Oracle**
 - 🛠️ **Git**, **GitHub**, 📋 **Trello**, 🔗 **APIs REST**
-- 🧠 Conocimientos en: **C#**, **Java**, **Python**
+- 🧠 Conocimientos en: **Java**, **Python**
 
 ## 🌱 En lo que estoy trabajando
 
